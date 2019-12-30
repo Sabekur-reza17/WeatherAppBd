@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherAppBd</string>
+    <string name="weather_api">59ec65d3d978cca0a8a0976495da65b5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
